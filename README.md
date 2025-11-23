@@ -75,6 +75,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
+```
 Am=7.2; 
 Fm=380; 
 Ac=14.4; 
@@ -96,7 +97,7 @@ xgrid;
 demodulated_signal = abs(hilbert(eam)) - Ac; 
 subplot(4,1,4); 
 plot(t, demodulated_signal);
-
+```
 
 Output Waveform
 
