@@ -99,6 +99,7 @@ plot(t, demodulated_signal);
 
 
 Output Waveform
+
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/3e99d1a4-c48d-44c4-99fa-3426ef8babb2" />
 
 
@@ -107,6 +108,7 @@ Output Waveform
 
 
 TABULATION:
+
 <img width="943" height="1229" alt="image" src="https://github.com/user-attachments/assets/2c0d3a8a-2248-4ceb-bbed-26e27e0fe6c1" />
 
 
